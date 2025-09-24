@@ -50,3 +50,6 @@ Cleaned and standardized column names.
 Download the file: _Retail-Sales-Analytics.xlsx_
 Open in **Excel** 2016 or later
 Go to the Dashboard sheet to explore charts & insights
+
+
+Course Link:https://www.linkedin.com/learning/excel-managing-and-analyzing-data-25384011?u=107510546
